@@ -126,7 +126,7 @@ const recipes = [
         prepTime: 20,
         difficulty: "easy",
         rating: 4.3,
-        image: "assets/vegetable-stir-fry.jpg",
+        image: "assets/images/vegetable-stir-fry.jpg",
         description: "Colorful and nutritious vegetable stir fry with a savory soy-based sauce. Quick and healthy!",
         ingredients: [
             "2 tablespoons vegetable oil",
