@@ -42,7 +42,7 @@ function renderRecipes(list, container) {
         card.className = "recipe-card";
 
         card.innerHTML = `
-            <img src="${image}" alt="${recipe.name}" class="recipe-image">
+            <img src="${recipe.image}" alt="${recipe.name}" class="recipe-image">
             <h3 class="recipe-title">${recipe.name}</h3>
             <p>Prep Time: ${recipe.prepTime} min</p>
             <p>Difficulty: ${recipe.difficulty}</p>
