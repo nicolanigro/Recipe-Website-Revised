@@ -1,3 +1,5 @@
+Recipe-data.js
+
 const recipes = [
     {
         id: 1,
@@ -6,7 +8,7 @@ const recipes = [
         prepTime: 15,
         difficulty: "easy",
         rating: 4.5,
-        image: "assets/images/pancakes.jpg",
+        image: "assets/images/recipes/pancakes.jpg",
         description: "Fluffy, golden pancakes perfect for weekend mornings. Serve with maple syrup and fresh berries.",
         ingredients: [
             "2 cups all-purpose flour",
@@ -35,7 +37,7 @@ const recipes = [
         prepTime: 20,
         difficulty: "medium",
         rating: 4.2,
-        image: "assets/images/caesar-salad.jpg",
+        image: "assets/images/recipes/caesar-salad.jpg",
         description: "Crisp romaine lettuce with homemade Caesar dressing, parmesan cheese, and crunchy croutons.",
         ingredients: [
             "2 large heads romaine lettuce",
@@ -64,7 +66,7 @@ const recipes = [
         prepTime: 25,
         difficulty: "medium",
         rating: 4.7,
-        image: "assets/images/spaghetti-carbonara.jpg",
+        image: "assets/images/recipes/spaghetti-carbonara.jpg",
         description: "Creamy Italian pasta dish with eggs, cheese, pancetta, and black pepper. A true Roman classic.",
         ingredients: [
             "1 lb spaghetti",
@@ -94,7 +96,7 @@ const recipes = [
         prepTime: 30,
         difficulty: "easy",
         rating: 4.8,
-        image: "assets/images/chocolate-chip-cookies.jpg",
+        image: "assets/images/recipes/chocolate-chip-cookies.jpg",
         description: "Soft and chewy chocolate chip cookies that are crispy on the edges and tender in the center.",
         ingredients: [
             "2 1/4 cups all-purpose flour",
@@ -126,7 +128,7 @@ const recipes = [
         prepTime: 20,
         difficulty: "easy",
         rating: 4.3,
-        image: "assets/images/vegetable-stir-fry.jpg",
+        image: "/assets/images/recipes/vegetable-stir-fry.jpg",
         description: "Colorful and nutritious vegetable stir fry with a savory soy-based sauce. Quick and healthy!",
         ingredients: [
             "2 tablespoons vegetable oil",
@@ -160,7 +162,7 @@ const recipes = [
         prepTime: 15,
         difficulty: "easy",
         rating: 4.4,
-        image: "assets/images/french-toast.jpg",
+        image: "/assets/images/recipes/french-toast.jpg",
         description: "Golden, custardy French toast made with thick bread slices. Perfect for a special breakfast.",
         ingredients: [
             "8 thick slices of bread",
@@ -189,7 +191,7 @@ const recipes = [
         prepTime: 25,
         difficulty: "medium",
         rating: 4.1,
-        image: "assets/images/french-toast.jpg",
+        image: "/assets/images/recipes/french-toast.jpg",
         description: "Juicy grilled chicken breast on a toasted bun with fresh vegetables and creamy avocado.",
         ingredients: [
             "4 chicken breasts",
@@ -221,7 +223,7 @@ const recipes = [
         prepTime: 30,
         difficulty: "medium",
         rating: 4.6,
-        image: "assets/images/beef-tacos.jpg",
+        image: "/assets/images/recipes/beef-tacos.jpg",
         description: "Flavorful seasoned ground beef tacos with fresh toppings and warm tortillas.",
         ingredients: [
             "1 lb ground beef",
@@ -256,7 +258,7 @@ const recipes = [
         prepTime: 60,
         difficulty: "hard",
         rating: 4.9,
-        image: "assets/images/apple-pie.jpg",
+        image: "/assets/images/recipes/apple-pie.jpg",
         description: "Classic homemade apple pie with flaky crust and cinnamon-spiced apple filling.",
         ingredients: [
             "6-8 large apples, peeled and sliced",
@@ -289,7 +291,7 @@ const recipes = [
         prepTime: 35,
         difficulty: "medium",
         rating: 4.5,
-        image: "assets/images/quinoa-buddha-bowl.jpg",
+        image: "/assets/images/recipes/quinoa-buddha-bowl.jpg",
         description: "Nutritious and colorful bowl with quinoa, roasted vegetables, and tahini dressing.",
         ingredients: [
             "1 cup quinoa",
